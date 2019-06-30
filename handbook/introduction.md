@@ -6,9 +6,7 @@ Handbook rev.2019/04/25 for YSFlight ver.20181124 and older.
 Copyright 2019 (CC-BY-SA 4.0) u2fly, forum.YSFHQ.com & contributors
 ```
 
-***
-
-- [Table of Contents](index.md)
+[Table of Contents](index.md) | [YSFlight Installing →](ysflight-installing.md)
 
 ***
 
@@ -16,7 +14,7 @@ Copyright 2019 (CC-BY-SA 4.0) u2fly, forum.YSFHQ.com & contributors
 
 **YS FLIGHT SIMULATOR** (aka YSFlight, YSFS, YSF or YS) — is a lightweight computer flight simulator and game developed and frequently updated by ***Soji Yamakawa*** aka '*CaptainYS*' from Japan. Interface of game generaly in English & Japanese, but could be translated to other language too.
 
-Development started in 1997 and for now latest YSFlight ver.201801124 already distributed with more than 100 stock add-ons, including aircrafts, sceneries, ground objects, missions and other miscellaneous things.
+Development started in 1997 and for now latest YSFlight ver.20181124 already distributed with more than 100 stock add-ons, including aircrafts, sceneries, ground objects, missions and other miscellaneous things.
 
 For single player mode, there are multiple ways of flying on YSFlight. You can:
 
@@ -68,24 +66,26 @@ FEEDBACK (e-mail):	`PEB01130 AT nifty DOT com` (mail to Soji Yamakawa for YSFlig
 
 WEBSITES:
 
-- official websites:	http://ysflight.com | http://ysflight.in.coocan.jp
-- unofficial website: http://ysflight.org | http://github.com/YSFHQ/marketing
-- ONLINE MANUALS:
-  - English (EN)	http://ysflight.in.coocan.jp/ysflight/manual/english.html
-  - Japanese (JP)	http://ysflight.in.coocan.jp/ysflight/manual/japanese.html 
-  - French (FR)		http://marcjeanmougin.free.fr/ys_servers/document/french.html
+- [official website](http://ysflight.com) ([mirror](http://ysflight.in.coocan.jp)
+- [unofficial website](http://ysflight.org) ([sources](http://github.com/YSFHQ/marketing))
+
+OFFICIAL ONLINE MANUAL:
+
+- [English (EN)](http://ysflight.in.coocan.jp/ysflight/manual/english.html) 
+- [Japanese (JP)](http://ysflight.in.coocan.jp/ysflight/manual/japanese.html)
+- [French (FR)](http://marcjeanmougin.free.fr/ys_servers/document/french.html)
 
 CONTROL KEYS:
 
-- English (EN)	http://ysflight.in.coocan.jp/ysflight/ysflight/manual/control.html
-- Japanese (JP)	http://ysflight.in.coocan.jp/ysflight/ysflight/manual/controlj.html
-- French (FR)		http://marcjeanmougin.free.fr/ys_servers/document/control.html
+- [English (EN)](http://ysflight.in.coocan.jp/ysflight/ysflight/manual/control.html)
+- [Japanese (JP)](http://ysflight.in.coocan.jp/ysflight/ysflight/manual/controlj.html)
+- [French (FR)](http://marcjeanmougin.free.fr/ys_servers/document/control.html)
 
 REVIEWS:
 
-- “YSPilots E-Magazine” (2008): http://yspilots-e-magazine.page.tl
-- “Flight simulator for serious gaming” (March 2015): http://www.eajournals.org/journals/european-journal-of-computer-science-and-information-technology-ejcsit/vol-3-issue-1-march-2015/flight-simulator-serious-gaming/
-- “JetManHuss YSFlight report” (October 2015): http://www.vskylabs.com/2015/10/jetmanhuss-ysflight-report-2015.html
+- [“YSPilots E-Magazine”](http://yspilots-e-magazine.page.tl) (2008)
+- [“Flight simulator for serious gaming”](http://www.eajournals.org/journals/european-journal-of-computer-science-and-information-technology-ejcsit/vol-3-issue-1-march-2015/flight-simulator-serious-gaming/) (March 2015)
+- [“JetManHuss YSFlight report”](http://www.vskylabs.com/2015/10/jetmanhuss-ysflight-report-2015.html) (October 2015)
 
 *** 
 

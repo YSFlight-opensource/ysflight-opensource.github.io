@@ -24,7 +24,7 @@ It's already distributed for different graphic cards & drivers: DirectX, OpenGL1
 
 > OpenGL2 version produce best  graphic quality, but need more powerfull GPU for run.
 
-### LAUNCH SETUP & RUN
+### LAUNCH SETUP AND RUN
 
 You can start YSFlight executable in few ways:
 

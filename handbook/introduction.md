@@ -87,6 +87,6 @@ REVIEWS:
 - [“Flight simulator for serious gaming”](http://www.eajournals.org/journals/european-journal-of-computer-science-and-information-technology-ejcsit/vol-3-issue-1-march-2015/flight-simulator-serious-gaming/) (March 2015)
 - [“JetManHuss YSFlight report”](http://www.vskylabs.com/2015/10/jetmanhuss-ysflight-report-2015.html) (October 2015)
 
-*** 
+***
 
 [Table of Contents](index.md) | [YSFlight Installing →](ysflight-installing.md)

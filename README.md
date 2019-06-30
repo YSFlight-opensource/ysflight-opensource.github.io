@@ -11,5 +11,6 @@
 👥 YSFHQ Forum — [forum.ysfhq.com](https://forum.ysfhq.com)
 
 ```
-···::: = ✈ - - - - - - - - - - - - - - = :::····
+  ····:::[ = ✈ - - - - - - - - - - - - - - = ]:::····    
+the only free flight simulator where anything is possible
 ```

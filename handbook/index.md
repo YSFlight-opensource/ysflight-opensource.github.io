@@ -12,7 +12,29 @@ Copyright 2019 (CC-BY-SA 4.0) u2fly, forum.YSFHQ.com & contributors
 
 ## Table of Contents
 
-- [INTRODUCTION](introduction.md)
+- [x] [INTRODUCTION](introduction.md)
+  - [x] [YSFLIGHT INSTALLING](ysflight-installing.md)
+    - [x] [LAUNCH SETUP AND RUN](ysflight-installing.md#launch-setup-and-run)
+    - [x] [RUN FROM CONSOLE](ysflight-installing.md#run-from-console)
+  - [] [YSFLIGHT CONFIGURATION FILES](ysflight-configuration-files.md)
+- [] [OFFICIAL AND EXTERNAL RESOURCES](official-and-external-resources.md)
+  - (WIP)
+- [] [ADDONS FILE TYPES OVERVIEW](addons-file-types-overview.md)
+  - (WIP)
+- [] [ADDONS CONFIGURATION FILES](addons-configuration-files.md)
+  - (WIP)
+- [] [3D VISUAL MODELS](3d-visual-models.md)
+  - (WIP)
+- [] [SCENERIES FILES](sceneries-files.md)
+  - (WIP)
+- [] [MISSION CREATING AND FLIGHT RECORDING](mission-creating-and-flight-recording.md)
+  - (WIP)
+- [] [NETWORK GAMING](network-gaming.md)
+  - (WIP)
+- [] [YSFHQ — YSFlight Community](ysfhq-ysfight-community.md)
+  - (WIP)
+- [] [HANDBOOK CREDITS](handbook-credits.md)
+- [] [UPDATES AND FEEDBACK](updates-and-feedback.md)
 
 ***
 

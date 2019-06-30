@@ -1,9 +1,11 @@
-# ysflight-opensource.github.io
+# YSFlight OpenSource
 
-OpenSource tools for YSFlight (YS FLIGHT SIMULATOR) - https://github.com/ysflight-opensource
+OpenSource tools for YSFlight (YS FLIGHT SIMULATOR) — [github.com/ysflight-opensource](https://github.com/ysflight-opensource)
 
-«YSFlight Handbook» (online) - https://ysflight-opensource.github.io/handbook
+«YSFlight Handbook» (online) — [ysflight-opensource.github.io/handbook](https://ysflight-opensource.github.io/handbook)
 
-Download YSFlight (for Linux, Mac OS, Windows)- https://ysflight.org/download
+Download YSFlight (for Linux, Mac OS, Windows) — [ysflight.org/download](https://ysflight.org/download)
 
-YSFHQ Forum - https://forum.ysfhq.com
+YSFHQ Forum — [forum.ysfhq.com](https://forum.ysfhq.com)
+
+Webmaster: [u2fly](https://github.com/u2fly)
